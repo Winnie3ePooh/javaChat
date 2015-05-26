@@ -1,0 +1,11 @@
+com\mycompany\javachat\Users.class
+com\mycompany\javachat\LoginServlet.class
+com\mycompany\javachat\DefaultFilter.class
+com\mycompany\javachat\MessFunc.class
+com\mycompany\javachat\LogoutServlet.class
+com\mycompany\javachat\Mess.class
+com\mycompany\javachat\WhosOn.class
+com\mycompany\javachat\GetMess.class
+com\mycompany\javachat\TakeMess.class
+com\mycompany\javachat\UsersFunc.class
+com\mycompany\javachat\ChatServlet.class
