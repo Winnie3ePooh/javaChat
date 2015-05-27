@@ -91,7 +91,7 @@ function getOn(){
     });
 }
 
-///function addBtnUser() { //Ajax отправка формы
+//function addBtnUser() { //Ajax отправка формы
 //   var arr = $('#newUser').serialize();
 //   alert(arr);
  //   $.ajax({

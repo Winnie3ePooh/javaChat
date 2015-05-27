@@ -28,13 +28,14 @@
     }
     if(userName == null) response.sendRedirect("/index.html");
     %>
-    <h3>Hi <%=userName %>, Welcome to chat!</h3>
+    <h3 align="center">Hi <%=userName %>, Welcome to chat!</h3>
     
     <div class="container chat-wrapper">
                     <div id="chatik" style="height:300px; overflow:auto;">
                         <table id="response" class="table table-bordered"></table>
                     </div>
-                    <div id="users" style="height:100px; overflow:auto;">
+                    <h4 align="center">Online</h4>
+                    <div id="users" style="height:80px; overflow:auto;">
                         <table id="on" class="table table-bordered"></table>
                     </div>
         <form id="otpravka" method="post" action="javascript:void(0);" onsubmit="ajax()">
